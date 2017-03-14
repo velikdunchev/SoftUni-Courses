@@ -1,1 +1,1 @@
-00client
+00server
